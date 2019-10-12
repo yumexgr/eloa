@@ -1,0 +1,1523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"mysq",
+				"mysqli_num_rows"
+			],
+			[
+				"mysqli_",
+				"mysqli_query"
+			],
+			[
+				"hr",
+				"hr2"
+			],
+			[
+				"col-lg-6",
+				"col-lg-6 \tBootstrap 4 Class"
+			],
+			[
+				"session_u",
+				"session_unset〔function〕"
+			],
+			[
+				"session_de",
+				"session_destroy〔function〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"div",
+				"div\t<div>"
+			],
+			[
+				"las",
+				"$last_err〔variable〕"
+			],
+			[
+				"firs",
+				"first_err"
+			],
+			[
+				"logge",
+				"loggedIn"
+			],
+			[
+				"session",
+				"session_start〔function〕"
+			],
+			[
+				"sesson_",
+				"session_destroy"
+			],
+			[
+				"PASSW",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"borrow",
+				"borrowed1"
+			],
+			[
+				"ses",
+				"session_start〔function〕"
+			],
+			[
+				"sess",
+				"session_destroy〔function〕"
+			],
+			[
+				"session_un",
+				"session_unset"
+			],
+			[
+				"sqlF",
+				"$sqlFoot〔variable〕"
+			],
+			[
+				"mysqli_esca",
+				"mysqli_real_escape_string〔function〕"
+			],
+			[
+				"perce",
+				"$percentUse〔variable〕"
+			],
+			[
+				"queryU",
+				"$queryUsable〔variable〕"
+			],
+			[
+				"sqlu",
+				"$sqlUsable〔variable〕"
+			],
+			[
+				"inv_",
+				"inv_qty"
+			],
+			[
+				"queryM",
+				"$queryMonthPrev〔variable〕"
+			],
+			[
+				"sqlM",
+				"$sqlmonthTotal〔variable〕"
+			],
+			[
+				"card-in",
+				"card-inverse \tBootstrap 4 Class"
+			],
+			[
+				"request",
+				"requestNo"
+			],
+			[
+				"rowB",
+				"$rowBorrower〔variable〕"
+			],
+			[
+				"pull-",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"reque",
+				"requestNo"
+			],
+			[
+				"resultda",
+				"resultDateRet"
+			],
+			[
+				"req",
+				"requestNo"
+			],
+			[
+				"reques",
+				"requestNum"
+			],
+			[
+				"row",
+				"$rowBorrower〔variable〕"
+			],
+			[
+				"bor",
+				"border-0 \tBootstrap 4 Class"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"ro",
+				"rounded \tBootstrap 4 Class"
+			],
+			[
+				"form",
+				"form\t<form>"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"check",
+				"checkNotif"
+			],
+			[
+				"flag",
+				"$flagV〔variable〕"
+			],
+			[
+				"rec_date",
+				"rec_dateBorr"
+			],
+			[
+				"isA",
+				"isApproved"
+			],
+			[
+				"rec",
+				"rec_dateReq"
+			],
+			[
+				"rec_",
+				"rec_borrID"
+			],
+			[
+				"container",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"onmouse",
+				"onmousedown\tAttr"
+			],
+			[
+				"sqlV",
+				"$sqlViewed〔variable〕"
+			],
+			[
+				"resultB",
+				"$resultBorrowableItems〔variable〕"
+			],
+			[
+				"profile",
+				"profile-pic"
+			],
+			[
+				"queryB",
+				"$queryBorrowableItems〔variable〕"
+			],
+			[
+				"sql",
+				"sqlSearch"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"quer",
+				"$queryApprove〔variable〕"
+			],
+			[
+				"queryBorr",
+				"$queryBorrower〔variable〕"
+			],
+			[
+				"borr",
+				"$borrowerCheck〔variable〕"
+			],
+			[
+				"query",
+				"queryBorrower"
+			],
+			[
+				"sqlB",
+				"$sqlBorrower〔variable〕"
+			],
+			[
+				"app",
+				"$approveCheck〔variable〕"
+			],
+			[
+				"fonta",
+				"fontawesome"
+			],
+			[
+				"Borr",
+				"BorrCheck"
+			],
+			[
+				"sqlboo",
+				"$sqlborrBorr〔variable〕"
+			],
+			[
+				"mysqliq",
+				"mysql_query〔function〕"
+			],
+			[
+				"chec",
+				"checkCart"
+			],
+			[
+				"http",
+				"http_response_code〔function〕"
+			],
+			[
+				"has",
+				"hasBorrowed"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"document",
+				"document).ready"
+			],
+			[
+				"input",
+				"inputh\tinput - hidden"
+			],
+			[
+				"form-",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"btn",
+				"btn-default \tBootstrap 3 Class"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"align-self",
+				"align-self-center \tBootstrap 4 Class"
+			],
+			[
+				"col-sm-off",
+				"col-sm-offset-7 \tBootstrap 3 Class"
+			],
+			[
+				"hidde",
+				"hidden_avail"
+			],
+			[
+				"hidd",
+				"hidden_name"
+			],
+			[
+				"queryDate",
+				"queryDateRet"
+			],
+			[
+				"isAd",
+				"$isAdm〔variable〕"
+			],
+			[
+				"this",
+				"this\tempty"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"wizard",
+				"wizard-finish"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"log",
+				"$logAdm〔variable〕"
+			],
+			[
+				"totAc",
+				"$totActivity〔variable〕"
+			],
+			[
+				"no",
+				"$noOfApp〔variable〕"
+			],
+			[
+				"mysql",
+				"mysql_connect〔function〕"
+			],
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"noOf",
+				"noOfApp"
+			],
+			[
+				"noof",
+				"$noOfAdjust〔variable〕"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"sqlA",
+				"sqlApproved"
+			],
+			[
+				"userS",
+				"$userStat〔variable〕"
+			],
+			[
+				"user",
+				"userStat"
+			],
+			[
+				"idM",
+				"$idMod〔variable〕"
+			],
+			[
+				"pull",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"ret",
+				"returned"
+			],
+			[
+				"users",
+				"$usersData〔variable〕"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows〔function〕"
+			],
+			[
+				"use",
+				"$userSubtitle〔variable〕"
+			],
+			[
+				"admin",
+				"admin-styles"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"Acqui",
+				"Acquisition"
+			],
+			[
+				"inv",
+				"inv_item"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"per",
+				"$percentAcc〔variable〕"
+			],
+			[
+				"sqlT",
+				"$sqlTotal〔variable〕"
+			],
+			[
+				"mys",
+				"mysqli〔class〕"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"pass",
+				"password_hash〔function〕"
+			],
+			[
+				"Montserrat",
+				"Montserrat-Regular"
+			],
+			[
+				"window",
+				"window.addEventListener('load"
+			],
+			[
+				"print",
+				"printf〔function〕"
+			],
+			[
+				"logg",
+				"logged_in"
+			],
+			[
+				"ajax",
+				"ajax\tGoogle AJAX Libraries: jQuery UI"
+			],
+			[
+				"tim",
+				"timeout"
+			],
+			[
+				"col",
+				"collapse \tBootstrap 3 Class"
+			],
+			[
+				"ad",
+				"admin-plugins"
+			],
+			[
+				"d",
+				"div\t<div>"
+			],
+			[
+				"strto",
+				"strtoupper〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\nif(isset($_SESSION[\"loggedin\"]) && $_SESSION[\"loggedin\"] === true){\n\t\n}else{\n  echo \"error\";\n  header(\"location: /\");\n  exit;",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dbConn.php",
+			"settings":
+			{
+				"buffer_size": 540,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "signup.php",
+			"settings":
+			{
+				"buffer_size": 5701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 4081,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "acc/fileLeave.php",
+			"settings":
+			{
+				"buffer_size": 8703,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "acc/leave.php",
+			"settings":
+			{
+				"buffer_size": 2185,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "acc/home.php",
+			"settings":
+			{
+				"buffer_size": 18955,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "acc/accountType.php",
+			"settings":
+			{
+				"buffer_size": 1510,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "acc/getleave.php",
+			"settings":
+			{
+				"buffer_size": 3168,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "require_once '../dbConn.php';"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6869,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 500.0,
+		"last_filter": "bea",
+		"selected_items":
+		[
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"code f",
+				"PHP CodeBeautifier"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"php ",
+				"PHP CodeBeautifier"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php bea",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"LiveReload: Enable",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 745.0
+	},
+	"console":
+	{
+		"height": 283.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"//10.0.1.249/e-loa",
+		"//10.0.1.249/e-loa/acc",
+		"//10.0.1.249/e-loa/Assets",
+		"//10.0.1.249/e-loa/Assets/css",
+		"//10.0.1.249/e-loa/Assets/css/user",
+		"//10.0.1.249/e-loa/Assets/css/user/base"
+	],
+	"file_history":
+	[
+		"//10.0.1.249/e-loa/Assets/css/app.css",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/angular/src/theme/framework/components/foundation/helpers/_helpers.scss",
+		"/C/xampp/htdocs/E-LOA/acc/footer2.php",
+		"/C/xampp/htdocs/E-LOA/Assets/app/custom/general/crud/forms/widgets/bootstrap-datepicker.js",
+		"/C/xampp/htdocs/E-LOA/acc/attendance.php",
+		"/C/xampp/htdocs/E-LOA/acc/approval.php",
+		"/C/xampp/htdocs/E-LOA/acc/discAct.php",
+		"/C/xampp/htdocs/E-LOA/acc/aside.php",
+		"/C/xampp/htdocs/E-LOA/signin.php",
+		"/C/xampp/htdocs/E-LOA/acc/createAcc.php",
+		"/C/xampp/htdocs/E-LOA/acc/accountCreation.php",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/crud_forms_widgets_bootstrap-datepicker.html",
+		"/C/xampp/htdocs/E-LOA/Assets/app/custom/general/crud/forms/widgets/bootstrap-datetimepicker.js",
+		"/C/xampp/htdocs/E-LOA/login.php",
+		"/D/Download/SHAREit/SM-N975F/file/Bang Bang_com.mobile.legends/res/drawable/ab_btn_black_shape.xml",
+		"/C/Users/Francis Jerome/AppData/Local/Temp/Rar$DIa28276.45282/requestForm.php",
+		"/C/xampp/htdocs/E-LOA/header.php",
+		"/C/xampp/htdocs/E-LOA/acc/header2.php",
+		"/C/xampp/htdocs/E-LOA/acc/subheader.php",
+		"/C/xampp/htdocs/E-LOA/acc/home.php",
+		"/C/xampp/htdocs/E-LOA/Assets/css/user/base/style.bundle.css",
+		"/C/xampp/htdocs/E-LOA/index.php",
+		"/C/xampp/htdocs/E-LOA/acc/signout.php",
+		"/C/xampp/htdocs/elex_IS/includes/userAvailability.php",
+		"/C/xampp/htdocs/elex_IS/includes/ImageManipulator.php",
+		"/C/xampp/htdocs/elex_IS/includes/recoverF.php",
+		"/C/xampp/htdocs/elex_IS/includes/login.inc.php",
+		"/C/xampp/htdocs/elex_IS/includes/dbh.inc.php",
+		"/C/xampp/htdocs/elex_IS/passwordChange.php",
+		"/C/xampp/htdocs/elex_IS/contact-us.php",
+		"/C/xampp/htdocs/elex_IS/.htaccess",
+		"/C/xampp/htdocs/E-LOA/dbConn.php",
+		"/C/xampp/htdocs/E-LOA/navbar.php",
+		"/C/xampp/htdocs/E-LOA/acc/employeeData.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/E-LOA/acc/fileLeave.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/D/kkjf/elex_IS/footer.php",
+		"/D/kkjf/elex_IS/headerLanding.php",
+		"/D/kkjf/elex_IS/index.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/D/kkjf/elex_IS/admin/admin.php",
+		"/C/xampp/htdocs/E-LOA/Assets/app/custom/wizard/wizard-v2.js",
+		"/C/xampp/htdocs/E-LOA/footer.php",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/custom_wizard_wizard-v2.html",
+		"/C/xampp/php/pear/File/HtAccess.php",
+		"/C/xampp/htdocs/E-LOA/signup.php",
+		"/C/xampp/htdocs/E-LOA/register.php",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/components_extended_sweetalert2.html",
+		"/C/xampp/apache/conf/extra/httpd-userdir.conf",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/crud_forms_layouts_action-bars.html",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/components_widgets_general.html",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/crud_forms_controls_base.html",
+		"/C/xampp/htdocs/E-LOA/acc/file.php",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/crud_forms_widgets_bootstrap-datetimepicker.html",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/crud_forms_controls_switch.html",
+		"/C/Users/Francis Jerome/Desktop/LOA/metronic-60/theme/classic/default/crud_forms_layouts_multi-column-forms.html",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/xampp/apache/conf/extra/httpd-default.conf",
+		"/C/xampp/apache/crt/cert.conf",
+		"/C/xampp/htdocs/E-LOA/Assets/css/fonts/poppins.css",
+		"/C/xampp/htdocs/E-LOA/acc/accountType.php",
+		"/C/xampp/htdocs/E-LOA/acc/passChange.php",
+		"/C/xampp/htdocs/E-LOA/acc/requestAcc.php",
+		"/C/xampp/htdocs/E-LOA/acc/activeLeaves.php",
+		"/C/xampp/htdocs/E-LOA/acc/leaves.php",
+		"/C/xampp/htdocs/E-LOA/acc/transfer.php",
+		"/C/Users/Francis Jerome/Desktop/LOA/127_0_0_1.sql",
+		"/C/xampp/htdocs/E-LOA/acc/create_account.php",
+		"/C/xampp/htdocs/E-LOA/Assets/fonts/poppins/poppins.css",
+		"/C/xampp/htdocs/E-LOA/Assets/fonts/poppins/stylesheet.css",
+		"/C/xampp/htdocs/E-LOA/Assets/css/style.css",
+		"/C/xampp/htdocs/E-LOA/Assets/css/app.css",
+		"/C/Users/Francis Jerome/Desktop/LOA/xampp/htdocs/E-LOA/user.php",
+		"/D/Sorted/DevProg/ARDUINO/DAY 1/Software/windows/arduino-1.0.5/reference/arduinoWide.css",
+		"/D/Jerome/ageCalcu.js",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/admin-manage.php",
+		"/D/Download/Compressed/material-pro/material-pro/material/ui-notification.html",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/user/userprofile.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/includes/dbh.inc.php",
+		"/C/Program Files (x86)/Red Alert 2 Yuri's Revenge/aqrit.cfg",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/user-manage.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/profile.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/admin.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/admin-preloader.php",
+		"/D/SOftware/Final Project Software/home.html",
+		"/D/Download/Compressed/material-pro/material-pro/Documentation/document.html",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/includes/login.inc.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/includes/signup.inc.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/retJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/printOver.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/contact-us.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/user/user-header.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/user/user-footer.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/user/user-top-navbar.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/signup.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/minimal-foot.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/borrAdmPJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/borrJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/printJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/reqJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/includes/changeFooter.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/admin-sidebar.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/inventoryJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/inventory.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/includes/relogin.inc.php",
+		"/D/Download/Compressed/material-pro/material-pro/material/app-calendar.html",
+		"/C/Users/Francis Jerome/AppData/Local/Temp/Rar$DIa0.999/dataTables.editor.js",
+		"/C/Users/Francis Jerome/AppData/Local/Temp/Rar$DIa0.598/dataTables.editor.min.js",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/dtable/js/dataTables.editor.js",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/assets/admin-styles/js/overview.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/overInvent.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/assets/admin-styles/js/overview.js",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/assets/admin-plugins/morrisjs/morris.js",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/admin-top-navbar.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/borrowAdmJs.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/borrAdmP.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/forgot-password.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/headerLanding.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/footer.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/assets/css/styles.css",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/borrowAdm.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/req.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/user/user-editprofile.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/includes/editprofile.inc.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/ret.php",
+		"/C/xampp7.7/htdocs/dashboard/bscpe/elex_IS/admin/borr.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 254.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-warn",
+			"`",
+			"$",
+			"swal",
+			"`",
+			"manila",
+			"timezon",
+			"date",
+			"time() ",
+			" time()",
+			"time()",
+			"`",
+			"<form",
+			"tel",
+			"datepic",
+			"range",
+			"with pay",
+			"wpay",
+			"datetime",
+			"date",
+			"/dashboard/bscpe",
+			"dashboard/bscpe",
+			"dashboard/bscpe/",
+			"/dashboard/bscpe/",
+			"htdocs",
+			"vl",
+			"ml",
+			"date",
+			"img",
+			"nick",
+			"daily_rate",
+			"'",
+			"password",
+			"`",
+			"progress",
+			"ktapp",
+			"return",
+			"wizard-v",
+			"formEl",
+			"submit",
+			"<form",
+			"password",
+			"password\\",
+			"include",
+			"require",
+			"basic",
+			"mysqli_real",
+			"confirm_pass",
+			"password",
+			"username",
+			"toastr",
+			"toaster",
+			"password",
+			"username",
+			"session_start",
+			"background",
+			"kt_datetime",
+			"date",
+			"<input type",
+			"input",
+			"dropdown",
+			"mod_rew",
+			"mod_rewr",
+			"root",
+			"directory",
+			"alias_m",
+			"security",
+			"SSLRequireSSL",
+			"443",
+			"#",
+			"kt_body",
+			"maps",
+			"create acc",
+			"poppins",
+			"pdb",
+			"p",
+			"pdb",
+			"noof",
+			"borr",
+			"href=\"",
+			"../",
+			"define",
+			"[e6I.X7(d8O)?e6I.K9Y:i7Y]",
+			"[e6I.X7(d8O)?e6I.K9Y:i7Y])[e6I.X7(d8O)?e6I.K9Y:i7Y]",
+			")[e6I.X7(d8O)?e6I.K9Y:i7Y])[e6I.X7(d8O)?e6I.K9Y:i7Y]",
+			"items re",
+			"new",
+			"font-fa",
+			"drawEmptyDonutLabel",
+			"Donut.prototype.drawEmptyDonutLabel",
+			"Donut.prototype.drawEmptyDonutLabel = function(xPos, yPos, color, fontSize, fontWeight)",
+			"Donut.prototype.drawEmptyDonutLabel = function(xPos, yPos, color, fontSize, fontWeight) {var text;text = this.raphael.text(xPos, yPos, '').attr('",
+			"Donut.prototype.drawEmptyDonutLabel = function(xPos, yPos, color, fontSize, fontWeight) {\n      var text;\n      text = this.raphael.text(xPos, yPos, '').attr('",
+			"font",
+			"donut",
+			"servicea",
+			"month",
+			"all pr",
+			"daily",
+			"();\n",
+			"gender",
+			"$_SESSION",
+			"acc_",
+			"$data[",
+			"uid",
+			"$uname",
+			"uid",
+			"activi",
+			"round",
+			"\\\"",
+			"rowspan",
+			"slim",
+			"recent",
+			"chat-li",
+			"slim",
+			"delete",
+			"has",
+			"hasBorr",
+			"hasRequested",
+			"has",
+			"flag",
+			"noNew",
+			"delete",
+			"dbh",
+			"dbh.inc",
+			"dbh.",
+			"NULL",
+			"align=\"center\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"`",
+			"'",
+			"passConfirm",
+			"pass",
+			"idNum",
+			"pass",
+			"idNum",
+			"/dashboard/bscpe/elex_IS/",
+			"a_",
+			"$_SESSION[",
+			"\"",
+			"align=\\\"center\\\"",
+			"borrUser",
+			"\"/dashboard/bscpe/elex_IS/",
+			"\"/dashboard/bscpe/elex_IS",
+			"$dateRet",
+			"$dateB",
+			"$dateRq",
+			"rowItems",
+			"$search",
+			"rowRet",
+			"rowReq",
+			"req",
+			"\"",
+			"",
+			"logAdm",
+			"adminAddr",
+			"adminSubtitle",
+			"adminStat",
+			"adminData",
+			"adminAddr",
+			"adminData",
+			"adminSubtitle",
+			"adminData",
+			"adminSubtitle",
+			"adminData",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"default_dir": "C:\\xampp\\htdocs\\E-LOA\\acc",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dbConn.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								235
+							]
+						],
+						"settings":
+						{
+							"SL.29.region_keys":
+							[
+							],
+							"SL.47.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3331,
+								3342
+							]
+						],
+						"settings":
+						{
+							"SL.49.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1571.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1253,
+								1286
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "acc/fileLeave.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7621,
+								7621
+							]
+						],
+						"settings":
+						{
+							"SL.151.region_keys":
+							[
+							],
+							"SL.21.region_keys":
+							[
+							],
+							"SL.32.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "acc/leave.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+							],
+							"SL.35.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 593.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "acc/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5381,
+								5381
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"SL.53.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2376.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "acc/accountType.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"SL.43.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "acc/getleave.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"SL.35.region_keys":
+							[
+							],
+							"SL.73.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"auto_name": "require_once '../dbConn.php';",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6814,
+								6738
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+							],
+							"SL.56.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 933.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 277.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 149.0
+	},
+	"output.exec":
+	{
+		"height": 149.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eloa.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 347.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

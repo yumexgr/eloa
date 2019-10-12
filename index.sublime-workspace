@@ -1,0 +1,203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Engineer Jerome/Downloads/startbootstrap-new-age-gh-pages/startbootstrap-new-age-gh-pages/css/new-age.css",
+		"/C/xampp/htdocs/E-LOA/index.html",
+		"/C/xampp/htdocs/E-LOA/header.php",
+		"/C/xampp/htdocs/E-LOA/navbar.php",
+		"/C/xampp/htdocs/E-LOA/footer.php",
+		"/C/xampp/htdocs/E-LOA/js/new-age.js",
+		"/C/Users/Engineer Jerome/Downloads/apexadminhtml-70/html/demo-4/demo-4/login-page.html",
+		"/C/Users/Engineer Jerome/Downloads/startbootstrap-new-age-gh-pages/startbootstrap-new-age-gh-pages/index.html",
+		"/C/Users/Engineer Jerome/Downloads/apexadminhtml-70/html/demo-4/demo-4/app-assets/css/app.css",
+		"/C/Users/Engineer Jerome/Downloads/apexadminhtml-70/html/demo-4/demo-4/components-badges.html",
+		"/C/Users/Engineer Jerome/Downloads/kerganhtml/kerganhtml/Kergan - HTML Templates/Markup/index.html",
+		"/C/Users/Engineer Jerome/Downloads/apexadminhtml-70/angular-starter/src/app/pages/content-layout-page/content-layout-page.component.html",
+		"/C/Users/Engineer Jerome/Downloads/apexadminhtml-70/angular-starter/src/app/layouts/full/full-layout.component.html",
+		"/C/Users/Engineer Jerome/Desktop/signature.html",
+		"/C/Users/Engineer Jerome/Downloads/metronic-60/metronic-60/docs/api_reference/quick_search.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
